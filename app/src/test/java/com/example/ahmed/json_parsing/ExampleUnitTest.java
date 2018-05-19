@@ -2,12 +2,12 @@ package com.example.ahmed.json_parsing;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 /**
  * Example local unit test, which will execute on the development machine (host).
  *
- * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
+ * @see <item href="http://d.android.com/tools/testing">Testing documentation</item>
  */
 public class ExampleUnitTest {
     @Test
